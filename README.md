@@ -2,8 +2,7 @@
 
 O **RDrive** é um sistema de gerenciamento de arquivos baseado em web, que oferece uma interface moderna e intuitiva para organização, compartilhamento e administração de arquivos pessoais. Ele foi totalmente desenvolvido utilizando linguagem natural com inteligência artifical em ferramentas como Google Gemini e v0.dev, utilizando tecnologias como PHP, JavaScript, CSS e SQLite.
 
-<img width="1256" height="738" alt="image" src="https://github.com/user-attachments/assets/cef1f306-2069-4f7b-8d69-17b81a6aa7ec" />
-
+<img width="1265" height="753" alt="image" src="https://github.com/user-attachments/assets/543ce5ef-5ee7-4c2e-9b49-23af3624f552" />
 
 
 ## 🎯 Principais Funcionalidades
@@ -89,5 +88,8 @@ Esta seção documenta as limitações atuais do RDrive em comparação com ferr
 • **PHP** - Versão 8.3 ou superior  
 • **SQLite** - Versão 3.37 ou superior  
 
-## ➡️ Download & Instalação
-• **Veja as notas da versão v1.0** - https://github.com/olecramd2/RDrive/releases/tag/v1.0
+## ➡️ Download & Instalação & Contato
+• **Veja as notas da versão v1.0** - https://github.com/olecramd2/RDrive/releases/tag/v1.0  
+
+## 📩 Contato
+• **Quer trocar uma ideia sobre o projeto?** - olecram@autodashboard.com.br  
