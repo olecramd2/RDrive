@@ -84,9 +84,9 @@ Esta seção documenta as limitações atuais do RDrive em comparação com ferr
 **Nota:** O RDrive v1.0 é ideal para **uso pessoal** e **prototipagem rápida**. Antes do uso, considere as limitações listadas acima.
 
 ## ✅ Requisitos para funcionamento
-• **Servidor Web Apache** - Versão 2.4.51 ou superior  
-• **PHP** - Versão 8.3 ou superior  
-• **SQLite** - Versão 3.37 ou superior  
+• **Servidor Web Apache** - `Versão 2.4.51 ou superior`  
+• **PHP** - `Versão 8.3 ou superior`  
+• **SQLite** - `Versão 3.37 ou superior`  
 
 ## ➡️ Download & Instalação & Contato
 • **Veja as notas da versão v1.0** - https://github.com/olecramd2/RDrive/releases/tag/v1.0  
