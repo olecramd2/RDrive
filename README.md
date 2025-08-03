@@ -1,6 +1,6 @@
 # RDrive - Sistema de Gerenciamento de Arquivos Web
 
-O **RDrive** é um sistema de gerenciamento de arquivos baseado em web, que oferece uma interface moderna e intuitiva para organização, compartilhamento e administração de arquivos pessoais. Ele foi totalmente desenvolvido utilizando linguagem natural com inteligência artifical em ferramentas como Google Gemini e v0.dev, utilizando tecnologias como PHP, JavaScript, CSS e SQLite.
+O **RDrive** é um sistema de gerenciamento de arquivos baseado em web, que oferece uma interface moderna e intuitiva para organização, compartilhamento e administração de arquivos pessoais. Ele foi totalmente desenvolvido utilizando linguagem natural com inteligência artifical em ferramentas como Google Gemini e v0.dev, utilizando tecnologias como **PHP, JavaScript, CSS e SQLite**.
 
 <img width="1265" height="753" alt="image" src="https://github.com/user-attachments/assets/543ce5ef-5ee7-4c2e-9b49-23af3624f552" />
 
