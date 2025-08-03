@@ -17,7 +17,7 @@ O **RDrive** é um sistema de gerenciamento de arquivos baseado em web, que ofer
 
 ### 🔍 **Busca e Organização**
 • **Busca global** - Localização rápida de arquivos por nome  
-• **Seleção múltipla** - Operações em lote com checkboxes  
+• **Seleção múltipla** - Operações em lote com checkboxes (download, exclusão)  
 • **Renomeação** - Edição de nomes de arquivos e pastas  
 • **Movimentação** - Transferência de itens entre pastas com interface visual
 
